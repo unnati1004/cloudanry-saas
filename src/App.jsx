@@ -7,8 +7,8 @@ import './App.css';
 
 const App = () => {
   // Configuration
-  const cloudName = 'hzxyensd5';
-  const uploadPreset = 'aoh4fpwm';
+  const cloudName = 'dgjwxt7ww';
+  const uploadPreset = 'unnati';
 
   // State
   const [publicId, setPublicId] = useState('');
